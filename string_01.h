@@ -20,11 +20,11 @@ auto sum_digits(const std::string & str) -> int {
     
 }
 
-auto search_substr(const std::string & str) -> int {
+auto search_substr(const std::string & str, const std::string & substr) -> int {
 
 }
 
-auto custom_serach(const std::string & str) -> int {
+auto custom_serach(const char * str, const char * substr) -> int {
     
 }
 
